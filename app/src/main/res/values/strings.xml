@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">pruebas</string>
+    <string name="hola_mama">hola mama</string>
+    <string name="helo">peee</string>
+</resources>
